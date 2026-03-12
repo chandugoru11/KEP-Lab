@@ -1,0 +1,5 @@
+{
+  "name": "KEP Simulator 3D",
+  "description": "A realistic 3D IoT circuit simulation platform with real-time electronics behavior and failure animations.",
+  "requestFramePermissions": []
+}

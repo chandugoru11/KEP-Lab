@@ -1,0 +1,11 @@
+{
+  "name": "Coin Battery",
+  "pins": 2,
+  "pin_positions": [
+    {"name": "Positive", "pos": [0, 0.1, 0]},
+    {"name": "Negative", "pos": [0, -0.1, 0]}
+  ],
+  "category": "power",
+  "voltage_rating": "3V",
+  "description": "CR2032 3V Lithium Coin Cell Battery."
+}

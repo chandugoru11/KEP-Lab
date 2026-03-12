@@ -1,0 +1,11 @@
+{
+  "name": "LED",
+  "pins": 2,
+  "pin_positions": [
+    {"name": "Anode", "pos": [-0.1, 0, 0]},
+    {"name": "Cathode", "pos": [0.1, 0, 0]}
+  ],
+  "category": "led",
+  "voltage_rating": "2.0V - 3.2V",
+  "description": "5mm through-hole Light Emitting Diode."
+}

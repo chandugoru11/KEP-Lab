@@ -1,0 +1,5 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="25" fill="none" stroke="black" stroke-width="2"/>
+  <text x="30" y="35" font-family="Arial" font-size="12" text-anchor="middle" font-weight="bold">3V</text>
+  <text x="30" y="20" font-family="Arial" font-size="8" text-anchor="middle">CR2032</text>
+</svg>

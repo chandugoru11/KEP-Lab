@@ -1,0 +1,8 @@
+{
+  "name": "Breadboard",
+  "pins": 400,
+  "pin_positions": [],
+  "category": "prototyping",
+  "voltage_rating": "Max 30V",
+  "description": "Standard 400-point solderless breadboard."
+}

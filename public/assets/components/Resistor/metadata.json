@@ -1,0 +1,11 @@
+{
+  "name": "Resistor",
+  "pins": 2,
+  "pin_positions": [
+    {"name": "Pin 1", "pos": [-0.4, 0, 0]},
+    {"name": "Pin 2", "pos": [0.4, 0, 0]}
+  ],
+  "category": "passive",
+  "voltage_rating": "250V",
+  "description": "Standard 1/4W through-hole resistor with color bands."
+}
